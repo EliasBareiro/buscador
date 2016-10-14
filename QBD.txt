@@ -1,0 +1,3 @@
+BD:buscador
+	TB:articulos
+		id,nombre,articulo,visitas
